@@ -34,3 +34,15 @@ This project aims to detect credit card fraud using machine learning models. It 
 1. Clone the repo
    ```sh
    git clone https://github.com/Mathurshab2210/Ml_with_Mathur.git
+###Usage
+Open the Jupyter Notebook credit_card_fraud_detection.ipynb.
+Follow the step-by-step instructions to preprocess data, train models, and evaluate performance.
+
+###Contributing
+Contributions are welcome! Feel free to open an issue or submit a pull request.
+
+
+###Acknowledgements
+scikit-learn
+Pandas
+NumPy
